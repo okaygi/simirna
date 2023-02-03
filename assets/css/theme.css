@@ -20718,6 +20718,9 @@ a {
     background: transparent;
   }
 }
+img.radius {
+  border-radius: 5%;
+}
 
 .gallery-wraper {
   display: grid;
