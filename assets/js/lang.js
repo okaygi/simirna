@@ -1,7 +1,7 @@
 var data = {
     "pl":
     {
-        "title": "Cześć",
+        "title": "Cześć!",
         "description": "Informacja",
         "ourServices": "Nasze Usługi",
         "ourServicesTitle1": "PL",
