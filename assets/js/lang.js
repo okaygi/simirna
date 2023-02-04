@@ -11,7 +11,7 @@ var data = {
         "ourServicesDesc2": "PL",
         "ourServicesDesc3": "PL",
         "specialOffers": "PL",
-        "specialOffers1": "PL",
+        "": "PL",
         "specialOffers2": "PL",
         "specialOffers3": "PL",
         "specialOffers4": "PL",
